@@ -10,5 +10,5 @@
 
 3. **配置 CS2 启动参数**  
    在 Steam 中为 CS2 添加启动参数：
-   -insecure
+   -insecure （关闭VAC）
    
